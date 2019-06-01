@@ -1,5 +1,4 @@
 var playlist = {
   Prince: 'Purple Rain',
-  LedZeppelin: 'Heartbreaker',
-  
+  LedZeppelin: 'Heartbreaker'
 }
